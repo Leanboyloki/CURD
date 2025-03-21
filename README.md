@@ -1,5 +1,12 @@
 # CURD
-install these modules in terminal
+# Required softwares
+VS CODE
+NODE JS
+MONGO DB
+*************
+connect mongo db server
+*************
+install these modules in vs code terminal
 *************
 mkdir crud-app
 cd crud-app
